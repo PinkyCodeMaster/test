@@ -1,0 +1,43 @@
+Section 2 –  
+Minute of Angle 
+The Rail 
+Let’s invent a scenario based around a shooter who wishes to shoot out at 1000 yards. 
+ 
+Got a rifle capable of getting out there? 
+ 
+ 
+Bought an expensive scope? 
+ 
+ 
+Bought the correct size rings and mount to fit it? 
+ 
+ 
+Checked the elevation needed to get to 1000 yards = 40 MoA 
+ 
+ 
+Just checked my scope to see if I’ve actually GOT that elevation… 
+Oh… 
+Scopes are designed so that the elevation setting for around 100 yards is usually set in the middle of the elevation 
+range. This is because scopes are round in appearance and the mid-point on the elevation scale is the widest part or 
+diameter of the scope, utilising the maximum amount of windage at closer ranges. The minimum and maximum are 
+never at the exact top or bottom because there would be no windage available. 
+A scope with 60 MoA of elevation has effectively only got only about 30 MoA available. Our hapless shooter has 
+probably invested a tidy sum in their equipment and will not get past 600-800 yards as they need 40 MoA and the 
+scope will run out at 30 MoA. 
+There is a solution and that is an investment in a rail with a number of MoA built in. They look like a shallow ski slope 
+and will compensate for the additional elevation needed. Here’s an example of a 0 MoA rail and a 20 MoA rail.  
+As you can see, there is a small taper leading from the rear to the front: 
+ 
+A 20 MoA rail will claw back 20 MoA from the scope, meaning you have to adjust DOWN 20 MoA and reset your zero so 
+if the scope purchased originally had 60 MoA of adjustment and the zero at 100 yards gobbled up 30 MoA leaving 30 to 
+play with, the addition of that 20 MoA rail claws back that lost 20 MoA, leaving the shooter with 30 + 20 or 50 MoA. Just 
+enough to get them out to 1000 yards with a comfort factor of + 10 MoA. 
+Summary 
+This section has covered the basics of the Minute of Angle. For a description of the other methods of angular 
+measurement used in shooting sports – The Mil, please refer to the Reference Section at the end of this manual 
+90
+ 
+ 
+ 
+ 
+Module 2 

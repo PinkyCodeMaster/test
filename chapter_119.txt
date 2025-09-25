@@ -1,0 +1,28 @@
+Section 2 –  
+How to adjust sights – 
+Scope 
+Reticles (continued) 
+The previous examples are one side of the scale but imagine a reticle so jammed with information that you literally 
+cannot get a good sight picture because of the amount of extraneous data being presented to you: 
+ 
+You can clearly see that there is too much information being displayed above that is going to hinder a decent sight 
+picture. Sometimes, less is more. 
+ 
+ 
+Illuminated Reticles 
+This system basically has a dial mechanism that is adjusted for brightness by the user. There is a minute diode 
+internally that is projected onto the reticle, illuminating it. An example can be seen on the previous page. Most 
+illuminated systems use the colour red but there are a few that also use green in addition. As with all things electronic, 
+what needs switching on also needs to be switched off! One of the biggest problems with these systems is forgetting 
+to turn them off and the next time they are used, there is an almost certainty that you don’t have a spare battery. 
+There are however certain systems that operate via “shake awake” parameters. This system will shut itself off if it 
+detects no movement after a certain amount of time. 
+ 
+ 
+ 
+80
+ 
+ 
+ 
+ 
+Module 2 

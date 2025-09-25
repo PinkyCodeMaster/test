@@ -1,0 +1,52 @@
+Section 2 –  
+Minute of Angle 
+MoA (continued) 
+As you can see, the further the range, the further apart the legs of the angle become but the size of the angle stays the 
+same, in other words, if you come up 5 MoA at 100 yards – it’s 5”. That same 5 MoA at 500 yards increases to 25”. 
+One of the biggest errors by shooters is to get fixated on the relationship of the minute to the inch at 100 yards which 
+is 1 to 1. This error can either cost you a miss at closer ranges or potentially be hazardous at longer ranges. 
+An example: 
+You are shooting at a distance of 500 yards. Your rifle is zeroed for 100 yards and you know how much elevation to 
+apply in order to successfully hit the target at 500. You go ahead and apply that elevation. 
+You fire a shot and the marker tells you that you are 3 feet below the target.  
+OK, you say. I’m still on the target board so I’ll go ahead and add some elevation. But how much? 
+ 
+3 feet = 36 inches – so far so good 
+How many minutes is 36” at 500 yards? 
+ 
+36 MoA… surely? – Oops… you’ve just fallen into the 1 to 1 @ 100 fixation hole. 
+At 100 yards, 1 MoA is indeed 1 inch BUT… that same 1 MoA at 500 yards is 5” 
+Consult the chart on the previous page. 
+If you applied 36 MoA to your sights, you’d have effectively elevated them by 36 x 5 or 180 inches which is 15 feet.  
+There is a very REAL danger you are accidentally throwing bullets clean over the backstop and that is extremely 
+dangerous! 
+ 
+An easy method is to look at the following formula with this data: 
+Distance 
+500 yards 
+Amount of adjustment in inches 
+36 inches 
+MoA Value 
+1 MoA = 5” @ 500 yards 
+ 
+ 
+= 
+ 
+= 7.2 or 7 ¼ MoA 
+ 
+ 
+As you can see, a simple equation.  
+The top of the formula is the distance in inches your shot is off. 
+The bottom of the formula is the minute value for that distance, also in inches. 
+ 
+ 
+36 
+5 
+MoA value at 
+this range 
+86
+ 
+ 
+ 
+ 
+Module 2 

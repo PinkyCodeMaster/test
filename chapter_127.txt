@@ -1,0 +1,66 @@
+Section 2 –  
+Minute of Angle 
+MoA at ranges LESS THAN 100 yards (continued) 
+We have already seen that 1 MoA is roughly equal to 1” at 100 yards and you should be fairly comfortable with the 
+fact that as you increase the distance to the target, the distance between the legs of the angle increases 
+proportionately. 
+But… 
+What about distances less than 100 yards? 
+Let’s use the same angle picture used previously but in this case, substitute the longer ranges for those less than 100 
+yards. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 MoA =    1/4”                 1/2”                    3/4”                     1” 
+It’s the same angle, just closer. This fact is one of the biggest stumbling blocks when it comes to sight adjustment sub 
+100 yards. Everybody gets a fixation on the 1” @ 100 yard = 1MoA rule and there is a real potential to use this rule at 
+say 25 yards. 
+If you fire a shot at 25 yards and the bullet strike is 6” below the target, going to default mode and applying  1” @ 100 
+yard = 1MoA  and base that formula at 25 yards, you will only elevate your sights by ¼ the amount you wanted 
+because you are at ¼ the distance (see above) 
+Ammunition costs money and you could find yourself blasting away and slowly creeping up the target at a snail’s pace 
+when a simple re-assessment of the range will dictate what the MoA value truly is. 
+So, you’re at 25 yards and that bullet you just fired is still 6” below where you want it to be. Remember the 
+relationship of the MoA at 100 yards? Well, let’s take that and use it in a little calculation to establish the inch value at 
+closer ranges. 
+Range you’re 
+shooting at 
+ 
+ 
+inch value for 
+Minute of Angle 
+So the range you’re shooting at is 25 yards 
+so we place that in the equation 
+ 
+The resultant answer comes to ¼ which is 
+what 1 MoA is at 25 yards 
+25 yards 
+ 
+ 
+ 
+= 
+ 
+= ¼ “ 
+100 yards 
+ 
+100 yards 
+ 
+ 
+So the denominator (the number below the line) in this case is 4 as we are at ¼ the distance (100 yards) and the MoA 
+value is ¼ too. That denominator becomes our distance factor, explained on the next page. 
+25 y 
+50 y 
+75 y 
+100 y 
+88
+ 
+ 
+ 
+ 
+Module 2 

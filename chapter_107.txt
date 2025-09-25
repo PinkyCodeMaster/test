@@ -1,0 +1,56 @@
+Section 2 –  
+Scope sights– General 
+Scope Sighted Systems General 
+Scopes do not share the same setup as Iron Sighted systems as it’s all internal within the mechanism. We will not be 
+covering the internal workings of scopes in this manual as they’re far too complicated. 
+A telescopic sight or scope for short is an optical sighting device based on the overall principles of how a telescope 
+works but with the addition of a reference point within. This is called the reticle (see below). 
+Scopes are mounted to a firearm along its centre line to achieve accuracy. For more information on mounting scopes, 
+please see the “How to fit a Scope Sight” section in the reference area of this manual. 
+Scopes can have a myriad of options available, here is a list of some of the more common elements: 
+ 
+Element 
+Description 
+Fixed Magnification 
+Scope does not have any other magnification available other than what’s been set at the 
+factory 
+Variable 
+Magnification 
+Mag power starts at 1x which is basically the power of your eye and can go up as far as 
+50x or even more. 
+Reticle 
+These are the reference points mentioned earlier. They can be a simple crosshair right 
+up to some of the most complicated Ballistic Drop Reticles known to the human kind 
+Angular 
+Measurement 
+Scope adjustment is generally divided into two types, MoA or Mils. They can also have 
+all sorts of subtensions. In the case of an MoA scope, ¼ or ½ click to name a couple 
+Objective Size 
+The objective is the front lens on a scope and is measured in mm. Generally speaking, 
+the bigger the objective, the more light is received but there are many other factors like 
+glass quality, so you could have the biggest objective on the planet but the image looks 
+like you are looking through a milk bottle. Another consideration is the larger the 
+objective, the higher the mounts need to be to clear the barrel. 
+Focal Plane 
+1st Focal plane means that as you increase mag, the reticle increases in size too. 
+2nd Focal plane means that the reticle stays the same, irrespective of magnification 
+selected. For a detailed description, please see the article in this section 
+Eye Relief 
+This is the distance between the eyepiece of the scope and the eye where the optimal 
+image from the scope can be seen – this topic is covered in greater detail below 
+ 
+To adjust a scope for elevation & windage, you first have to identify the correct controls. To do this effectively, always 
+consult the owner’s manual as not all manufacturers adhere to the same naming conventions or positions of the 
+control surfaces on their products. 
+Generally speaking though, elevation is dialled in by turning a turret usually located on the top of the scope and 
+windage is usually off the right side. 
+Because the adjustment is all internal, you will not see any discernible shift in the crosshairs. 
+ 
+ 
+ 
+68
+ 
+ 
+ 
+ 
+Module 2 

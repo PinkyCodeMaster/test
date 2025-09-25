@@ -1,0 +1,46 @@
+Section 2 –  
+Scope sights– Parts 
+– Naming the parts (continued) 
+Ocular Lens & Focus ring 
+The Ocular lens is the lens you look through. It transmits the reticle information to you and it is the first thing you 
+should adjust for focus before you do anything else. If the ocular is out of focus, the information will not be in focus. It 
+doesn’t matter if the target looks clear because you will have introduced parallax errors before you even start 
+shooting. Remember, it’s all about accuracy 
+Magnification Adjustment ring 
+This control is usually somewhere near the Ocular but it all depends on individual manufacturers. The ring will always 
+be labelled from a small number to a large one (min to max mag). As mentioned previously, if the magnification starts 
+at 1 x power, this is the equivalent of the same power as the human eye and each successive increase is just that. For 
+instance, 10 x power is 10 x the power of the eye and so on. 
+Magnification is a great thing, you have a clearer image of the target which is the most obvious bonus for accurate 
+shot placement. For every positive, there’s always a negative though. With extremely high mag, you will encounter 
+black out. This is when the image is totally obscured, you literally cannot see a thing and would suspect the lens cap is 
+still on. 
+This is caused by a drastic reduction in exit pupil. 
+ 
+Exit Pupil - A human in their mid to late teens with 20/20 vision has an exit pupil of about 7mm. This is the 
+width of the beam of light leaving the eyepiece that the eye can then process. Any more and it is simply 
+ignored. This gets gradually smaller the older we get. 
+The higher the magnification, the smaller the transmitted information or exit pupil becomes. If you take a 
+scope with an objective lens (see below) of 56mm and you divide this number by 7 (ideal exit pupil), you get 
+the optimal magnification of: 
+56 / 7 = 8 
+So 8 x magnification would be the best setup but we want to see more of the target. 
+Increase the magnification to 20 x power and reverse engineer the formula: 
+56 / 20 = 2.8 
+That’s 2.8mm of available light being transmitted back to your eye which means your position & hold MUST be 
+absolutely in the centre line of the scope or you will not see anything. If you take that centre line, the 2.8mm of 
+available light is halved which means you’ve only got 1.4mm of wiggle room to correctly position your eye. 
+ 
+Heart rate – The higher the magnification, the more pronounced your heart rate is transmitted through the 
+firearm meaning you will see reticle “bounce” which will be in time with your heart. The only way to negate 
+this is to wind down the magnification to a setting where your heart rate is not observed. 
+ 
+ 
+2.8mm in total, 1.4mm 
+either side of the centre line 
+72
+ 
+ 
+ 
+ 
+Module 2 

@@ -1,0 +1,44 @@
+Section 2 –  
+Scope sights– Parts 
+Elevation & Windage Adjustment 
+To adjust a scope for elevation & windage, you first have to identify the correct controls. Your scope might be slightly 
+different to the scope referenced earlier so to do this effectively, always consult the owner’s manual as not all 
+manufacturers adhere to the same naming conventions or positions of the control surfaces on their products. 
+Generally speaking though, elevation is dialled in by turning a turret usually located on the top of the scope and 
+windage is usually off the right side. 
+Because the adjustment is all internal, you will not see any discernible shift in the crosshairs but you will note the 
+turret can move up/down or left/right but again, this all depends on the manufacturer. 
+Let’s look at Elevation first 
+Elevation Turret 
+ 
+ 
+ 
+ 
+As you can see, there are a number of different bits of information presented to you here, let’s break them down. 
+1 
+– Info: Usually, the manufacturer will stamp on the cap the relevant info about the elevation & windage. This 
+will usually look like: “1 click= ¼ “ @ 100y” or “1 click = 1cm @ 100m”. 
+This means that one audible “click” from the turret will move the reticle ¼“ (MoA) or 1 cm (Mil) up or down at 100 
+yards/metres distance. 
+In this instance, the manufacturer has included a quick reference line to indicate the Zero mark 
+2 
+– Direction of travel: It’s exactly what you probably thought. An arrow with a “U” in the middle pointing in the 
+UP direction means…. UP. So if you fire a shot and your bullet strikes low, you need to go UP. Pretty simple?! The trick 
+is to ALWAYS check this information when getting behind a scope rifle because it always catches out the unwary. 
+3 
+– Units & subtensions: The scope pictured is measured in ¼’s per unit so each click would represent in this 
+case, ¼ “ per click as it’s an MoA scope. 
+ 
+ 
+2 - Direction of travel 
+3 - Units & subtensions 
+4 - Reference line 
+1 - Unique scope 
+information, printed on 
+the top of the turret 
+73
+ 
+ 
+ 
+ 
+Module 2 

@@ -1,0 +1,48 @@
+Section 2 –  
+Minute of Angle 
+MoA? 
+MoA simply stands for Minute of Angle. 
+All sighting systems use some form of angular measurement in order to be adjusted to accurately place bullets on 
+target at different distances. 
+There are two types of angular measurement, Minutes of Angle and Mils. Note: we cover Mils later in the manual in 
+the Reference Section. At Bisley, most longer ranges (greater than 50 m/yds.) are measured in YARDS.  
+By some fluke of nature, the Minute of Angle angular measurement system maps almost perfectly with yards.  
+First, let’s look at exactly what a MoA is. 
+Take a circle and take out 1 degree which is 1/360th of that circle:  
+ 
+The angle pictured is clearly NOT 1 degree! 
+But is simply to give you an idea 
+ 
+ 
+ 
+Now, take that 1 degree and divide it by 60 = 1/60th of a degree which is 1 Minute of Angle. 
+1 Minute of Angle is a very small angle we think you’ll agree. 
+So, take that angle and stretch the legs out to 100 yards. The distance between the legs of the angle are about 1”. In 
+fact, they are exactly 1.047” but let’s face it, 47 thousands of an inch equates to the thickness of about 8-10 sheets of 
+paper which is neither here nor there in shooting terms. 
+ 
+ 
+ 
+ 
+ 
+This is the basis for applying elevation to sights in order to hit targets at longer distances as bullets are all affected by 
+one thing that is constant on this planet. Gravity. 
+ 
+When you fire a bullet at a target, its highest point will always be the line of the bore and as it exits the bore, it will 
+start dropping back down to earth. 
+ 
+ 
+ 
+ 
+1 MoA 
+1 inch 
+Muzzle 
+100 yards 
+Bullet path 
+Line of bore 
+84
+ 
+ 
+ 
+ 
+Module 2 

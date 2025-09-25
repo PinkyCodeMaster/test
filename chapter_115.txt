@@ -1,0 +1,47 @@
+Section 2 –  
+How to adjust sights –  
+Scope 
+Putting it all together (continued) 
+Let’s just have another look at the elevation turret so you can familiarise yourself with it again. 
+ 
+ 
+ 
+1st – The “U” and an arrow pointing in a direction is all you need to figure this one out. You will be surprised to hear 
+that it is not uncommon for shooters to accidentally go the wrong way. Please be also aware that not all 
+manufacturers adhere to UP = Anticlockwise. Some are the other way round so always assess. 
+2nd The example scope turret above is divided into ¼ increments. These increments are sometimes referred to as 
+“clicks”. 
+3rd and lastly, check how many whole units there are in a full 360 degree turn of the turret. As you can see from the 
+photo, we have “0” round to “24” in an anticlockwise direction but don’t forget the increments from “24” to the “0” 
+point. That’s another unit so this example scope has 25 whole units for that full rotation. 
+Our brains mostly don’t like dealing with large numbers so let’s look at the value we need to apply to the scope in 
+order to hit the target at 1000 yards which in this example is 36 ½. 
+This scope is what is known as a “¼ click”, i.e. 4 clicks per whole unit. Simple maths dictates that in order to get 36 ½ 
+units applied, we’d need to apply 36 ½ x 4 or 146 clicks to set up the scope. 146 clicks will take you forever to apply and 
+there is an absolute certainty that you’ll get interrupted by something as you count – 105, 106, 107, 10… “Do you fancy 
+a cup of coffee” and guess what, you’ve forgotten where you are. 
+Try not to think in individual clicks but apply the change based on whole units and whole rotations.  
+In the example we know: 
+ 
+There are 4 clicks per unit (MoA) 
+ 
+There are 25 units per full rotation of the turret 
+So, to apply 36 ½ units or MoA, we’d apply 1 full rotation = 25 units plus 11 individual whole units plus 2 clicks = 36 ½ 
+Simple, and it didn’t take you hours of fiddling about with the turret. 
+Less time fiddling = more time shooting. 
+ 
+ 
+1st – Always ascertain which direction is UP. 
+In this case, it’s clearly Anti-Clockwise 
+2nd – Figure out how many sub- 
+tensions there are per complete unit. 
+In this case the are 4 or ¼ increments 
+3rd – Look at the turret and work out 
+how many units there are per 
+complete rotation of the turret 
+76
+ 
+ 
+ 
+ 
+Module 2 
